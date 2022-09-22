@@ -1,0 +1,464 @@
+*
+{
+ margin: 0px;
+ font-family: "Titillium Web", Arial, sans-serif;
+box-sizing: border-box;
+
+}
+
+.header {
+background-color: #F7931A;
+color: #FFFFFF;
+font-weight: 600;
+border: none;
+font-size: 16px;
+width: 100%;
+height: 55px;
+text-align: center;
+
+  }
+.secondhead
+{
+  align-items: center;
+  background: #FFFFFF;
+  height: 40px;
+  display: flex;
+  justify-content:space-evenly;
+  flex-wrap: wrap;
+  margin-top: 10px;
+ 
+
+}
+
+
+ .list{
+  display: flex;
+  justify-content: space-evenly;
+  margin-left: 50px;
+  
+ }
+ 
+ 
+ .logo{
+  width: 132px;
+  height: 29px;
+  margin-left: -18px;
+ }
+ .selector
+ {
+   margin-left: 20px;
+   border: none;
+   font-size: 16px;
+ }
+ .selector1
+ {
+   margin-left: 20px;
+   font-size: 16px;
+ }
+ .selector3
+ {
+   margin-left: 300px;
+   font-size: 16px;
+   border: none;
+
+ }
+
+
+ 
+ .mainbody{
+  display: flex;
+  margin-left: 30%;
+  margin-top: 10%;
+  line-height: 60px;
+  justify-content: center;
+  width: 40%;
+  height: 150px;
+  font-size: 39px;
+  text-align: center;
+  
+}.threebuttons{
+  display: flex;
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 10px;
+}
+.buttongetwith{
+  background: #ff9500;
+  width: 290px;
+  height: 55px;
+  margin-right: 10px;
+  border-color: #ff9500;
+  color: #ffff;
+  border: none;
+  font-weight: 600px;
+}
+.buttonchoosewith{
+  margin-left: 1px;
+  width: 290px;
+  height: 55px;
+  background: #ffff;
+  border-color: #ff9500;
+  color: #ff9500;
+  font-weight: 600px;
+}
+.buttonbuy{
+  width: 290px;
+  height: 55px;
+  margin-left: 10px;
+  background-color: #ffff;
+  border-color: #ff9500;
+  color: #ff9500;
+  font-weight: 600px;
+}
+.secondbody{
+  display:flex;
+  width: 15%;
+  margin-left: 42%;
+  margin-top: 3%;
+  
+
+}
+.playbutton{
+margin-top: 5%;
+margin-left: 30%;
+height: 50px;
+
+}
+.play{
+  border: none;
+  background: #FFFFFF;
+  margin-left: 24px;
+}
+.blackimg{
+  background-image: url(images/overview-bg.svg);
+  width: 1519px;
+  height: 670px;
+}
+.quickoverview{
+  position: relative;
+  top: 322px;
+  text-align: center;
+  color: #ffff;
+  font-size: 31px;
+}
+ .threebox
+{ 
+  position: relative;
+  display: flex;
+  justify-content: space-around;
+  background: #13161f;
+  top: 400px;
+  width: 40%;
+  left: 462px;
+  height:184px
+} 
+.card1
+{ 
+  display: flex;
+  position: relative;
+  background: #110f0f;
+  top: -13px;
+  width: 260px;
+  left: 25px;
+  height: 180px;
+
+}
+.card2
+{
+  position: relative;
+  background: #110f0f;
+  top: -13px;
+  width: 260px;
+  left: 38px;
+  height: 180px;
+}
+.card3
+{ 
+  position: relative;
+  background: #110f0f;
+  top: -13px;
+  width: 260px;
+  left: 52px;
+  height: 180px;
+
+}
+.individual{
+    position: relative;
+    left: 80px;
+    top: 20px;
+  
+}
+.busines
+{
+  position: relative;
+  left: 80px;
+  top: 20px;
+}
+.developer
+{
+  position: relative;
+  left: 80px;
+  top: 20px;
+}
+.text1
+{
+  position: relative;
+  color: #FFFFFF;
+  text-align: center;
+  top: 84px;
+  left: 24px;
+
+}
+.text2
+{
+  position: relative;
+  color :#FFFFFF;
+  text-align: center;
+  top: 43px;
+
+}
+.text3
+{position: relative;
+  color :#FFFFFF;
+  text-align: center;
+  top: 43px;
+
+
+}
+.barrow
+{
+  position: relative;
+  bottom: 10px;
+}
+.downtriangle
+{
+  display: flex;
+  position: absolute;
+  left: 50%;
+  height: 50px;
+  width: 89px;
+  top: 1242px;
+}
+
+.bottamcard
+{ 
+  position:relative;
+  width: 100%;
+  height: 100px;
+}
+
+.heading
+{   
+  position: relative;
+  height: 75px;
+  background: #ffff;
+  text-align: center;
+  font-size: 30px;
+  left: 0px;
+  font-weight: 500px;
+  color: #ff9500
+}
+.discreption
+{
+  position: relative;
+  display: flex;
+  background: #ffff;
+  top: 50px;
+  justify-content: space-evenly;
+}
+.paraandicon
+{
+  display: flex;
+}
+.para
+{
+      position: relative;
+    text-align: justify;
+    width: 443px;
+    line-height: 40px;
+}
+.bimage
+{
+height: 429px;
+}
+.mainlist{
+position: absolute;
+top: 369px;
+}
+.transaction{
+  position: relative;
+  display: flex;
+  left: 10px;
+  height: 32px;
+}
+.worldwide
+{
+position: relative;
+display: flex;
+top: 10px;
+height: 32px;
+}
+.processing
+{
+position: relative;
+display: flex;
+top: 20px;
+height: 32px;
+
+}
+.pt{
+  position: relative;
+  left: 40px;
+  font-weight: 600;
+}
+.wp
+{
+  position: relative;
+  left: 40px;
+  font-weight: 600;
+}
+.lp{
+  position: relative;
+  left: 40px;
+  font-weight: 600;
+}
+.upsidefooter
+{ position: relative;
+  display: flex;
+  background-color: #FFFFFF;
+  height: 126px;
+  width: auto;
+  top: 106px;
+}
+.gbutton
+{ 
+  display: flex;
+  position: relative;
+  top: 125px;
+  border: none;
+  margin-left: 600px;
+  width: 240px;
+  height: 50px;
+  background: rgb(15, 14, 14);
+  font-size: 22px;
+  justify-content: center;
+  color: #ffff;
+}
+.whitespace
+{
+  position: relative;
+  top: 145px;
+  height: 100px;
+  background-color: #FFFFFF;
+}
+.footerblack
+{ 
+  position: relative;
+  top: 120px;
+  background-image: url(./images/footer-bg.svg);
+  width: 1519px;
+  height: 185px;
+  background-color: #110f0f;
+}
+.footerlogo
+{
+  position: relative;
+  left: 700px;
+  top: 40px;
+  width: 120px;
+  height: 29px;
+}
+.mainfooter
+{
+  display: flex;
+  position: relative;
+  background-color: #100f0f;
+  height: 500px;
+  top: 120px;
+}
+.donatebitcoin
+{
+  display: flex;
+  position: relative;
+  color: #FFFFFF;
+  left: 195px;
+}
+.donate
+{ display: flex;
+  position: relative;
+  top: 132px;
+  border: none;
+  margin-left: 10px;
+  width: 58px;
+  height: 20px;
+  background: #F7931A;
+  font-size: 15px;
+  color: #ffff;
+
+}
+.support
+{
+   display: flex;
+  position: relative;
+  top: 125px;
+  font-size: 25px;
+}
+.table
+{
+  position: relative;
+  display: flex;
+  left: 624px;
+  top:122px
+}
+.icolor
+{
+color: rgb(33, 153, 153);
+line-height: 2;
+margin: 10px;
+}
+.lastfooter
+{
+  display: flex;
+  position: relative;
+  background-color: #0d0c0c;
+  height: 82px;
+  bottom: -120px
+}
+.half1
+{
+  position: relative;
+  color: #5c5959;
+  left: 130px;
+  top: 30px;
+}
+half2
+{
+disply flex: ;
+}
+.NS{
+  position: relative;
+  color:#5c5959;
+  right:-650px;
+  top: 10px;
+}
+.NW{
+  position: relative;
+  right: -631px;
+  top: 30px;
+}
+.English
+{
+  position: relative;
+  color: #FFFFFF;
+  right: -880px;
+  top: -7px;
+}
+.smarrow
+{
+  position: relative;
+  color: #433d3d;
+  right: -935px;
+  top: -24px;
+}
+
+}

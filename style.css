@@ -263,12 +263,20 @@ height: 50px;
   position: relative;
   display: flex;
   background: #ffff;
-  top: 50px;
-  justify-content: space-evenly;
+  top: 66px;
+  width: 658px;
+  margin-left: 104px;
+
 }
 .paraandicon
 {
   display: flex;
+}
+.bttext
+{
+  line-height: 2;
+  margin-left: 39px;
+  text-align: justify
 }
 .para
 {
@@ -279,7 +287,10 @@ height: 50px;
 }
 .bimage
 {
-height: 429px;
+  position: relative;
+  height: 471px;
+  margin-top: -157px;
+  margin-left: 949px;
 }
 .mainlist{
 position: absolute;
@@ -288,39 +299,49 @@ top: 369px;
 .transaction{
   position: relative;
   display: flex;
-  left: 10px;
-  height: 32px;
+  left: -569px;
+  margin-top: -97px;
+  height: 26px;
 }
 .worldwide
 {
-position: relative;
-display: flex;
-top: 10px;
-height: 32px;
+  position: relative;
+  display: flex;
+  top: 23px;
+  height: 32px;
+  margin-left: -568px;
 }
 .processing
 {
-position: relative;
-display: flex;
-top: 20px;
-height: 32px;
+  position: relative;
+  display: flex;
+  top: 20px;
+  height: 32px;
+  margin-left: -561px;
+  margin-top: 26px;
 
 }
 .pt{
   position: relative;
-  left: 40px;
+  left: 32px;
   font-weight: 600;
+  font-size: 13px;
+  width: 195px;
 }
 .wp
 {
   position: relative;
-  left: 40px;
+  left: 19px;
   font-weight: 600;
+  font-size: 13px;
+  width: 190px;
 }
 .lp{
   position: relative;
-  left: 40px;
+  left: 19px;
   font-weight: 600;
+  font-size: 13px;
+  width: 190px;
 }
 .upsidefooter
 { position: relative;
@@ -460,5 +481,20 @@ disply flex: ;
   right: -935px;
   top: -24px;
 }
-
+.downarrowtra
+{
+  position: absolute;
+    margin-top: -293px;
+    margin-left: 20px;
+    height: 108px;
 }
+
+.icoarrow
+{
+  position: absolute;
+  margin-top: -260px;
+  margin-left: 70px;
+  height: 38px;
+}
+
+

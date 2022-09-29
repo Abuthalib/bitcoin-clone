@@ -3,7 +3,7 @@
  margin: 0px;
  font-family: "Titillium Web", Arial, sans-serif;
 box-sizing: border-box;
-
+height: 1550p;
 }
 
 .header {
@@ -377,7 +377,7 @@ top: 369px;
   position: relative;
   top: 120px;
   background-image: url(./images/footer-bg.svg);
-  width: 1525px;
+  width: 1519px;
   height: 185px;
   background-color: #110f0f;
 }
@@ -396,6 +396,7 @@ top: 369px;
   background-color: #100f0f;
   height: 500px;
   top: 120px;
+  width: 1519px;
 }
 .donatebitcoin
 {
@@ -442,7 +443,7 @@ margin: 10px;
   display: flex;
   position: relative;
   background-color: #0d0c0c;
-  height: 82px;
+  height: 140px;
   bottom: -120px
 }
 .half1
